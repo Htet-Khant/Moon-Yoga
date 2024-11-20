@@ -1,0 +1,38 @@
+/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  /* Header Hero Section */
+  header {
+    background-color: #1e1e2f;
+  }
+  
+  /* Card Styling */
+  .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .card h5 {
+    font-weight: bold;
+  }
+  .card ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .btn{
+    background-color: #00d1b2; /* Teal */
+  }
+  
+  /* Footer Styling */
+  footer {
+    background: #333;
+    color: #ccc;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
